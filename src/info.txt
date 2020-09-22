@@ -1,0 +1,13 @@
+linija 105 u main.cpp 
+  // begin(A6_BAUD_RATE);       // init A6 board (software serial)
+maknut komentar
+
+--------------------------------------
+zamjenit Software serial pinove za a6
+--------------------------------------
+vratit zice za gnd za ledice
+--------------------------------------
+SdHandlerInit za init sd kartice i SdHandlerWrite pise na sd karticu u Loop-u
+--------------------------------------
+
+--------------------------------------
